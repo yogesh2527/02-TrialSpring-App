@@ -22,6 +22,7 @@ public class LoginController {
 	@RequestMapping("/login")
 	public String login() 
 	{
+		System.out.println("Hello Login() ");
 		System.out.println("In login page");
 		return "login";
 	}
