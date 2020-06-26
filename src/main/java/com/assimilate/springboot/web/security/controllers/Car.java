@@ -2,7 +2,7 @@ package com.assimilate.springboot.web.security.controllers;
 
 public class Car {
 
-<<<<<<< Updated upstream
+
 
 	
 	
@@ -25,10 +25,9 @@ public class Car {
 	}
 	
 	
-=======
-	public void start()
+	public void display()
 	{
 			System.out.println("Changes in HIS-122");
 	}
->>>>>>> Stashed changes
+
 }
