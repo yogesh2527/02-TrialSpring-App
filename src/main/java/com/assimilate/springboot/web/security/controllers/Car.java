@@ -17,4 +17,11 @@ public class Car {
 			System.out.println("Changes in HIS-122");
 
 	}
+	
+	public void newData()
+	{
+		
+	}
+	
+	
 }
